@@ -2,30 +2,34 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=CA73AE&multiline=true&random=false&width=435&lines=Seja+Bem+-+Vindo(a)!+%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG">
   </a>
-</p><p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=CA73AE&multiline=true&random=false&width=435&lines=Welcome+Hello!++%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%87%BA%F0%9F%87%B8" alt="Typing SVG">
-  </a>
-
 <br>
 <br>
 
-## My name is Bruno Castro Tomaz
-(Typescript | Next JS | ReactJS | Javascript | HTML | CSS | NodeJS | Python | Docker | AWS ) 🚀
+## Meu nome é Bruno Castro Tomaz 🚀
 
-- 🎓 Computer Science
-- 🔭 FullStack Developer
-- 🌐 Passionate about web development
+- 🎓 Bacharel em Ciência da Computação pela Universidade Presbiteriana Mackenzie
+- 🔭 Desenvolvedor de Software Júnior
+- 🌐 Interesse em Desenvolvimento Web e Mobile
+
+Minha Stack Profissional é:  <br>
+
+<ul>
+  <li> Javascript </li>
+  <li> HTML5 e CSS3 </li>
+  <li> Python </li>
+  <li> Java (aprendendo...) </li>
+  <li> React (aprendendo...) </li>
+  <li> Next JS (aprendendo...) </li>
+  <li> Typescript (aprendendo...) </li>
+  <li> NodeJS (aprendendo...) </li>
+  <li> Docker (aprendendo...) </li>
+</ul>
+
 
 </p>
-<strong><p><h2><li> Perfil 🇧🇷/ Profile 🇺🇸/ Perfil 🇪🇸 </li></h2></p></strong>
-<p><h4> 🇧🇷 Neste GitHub, você encontrará alguns projetos que desenvolvi ao longo de minha carreira.  Todos os projetos postados aqui têm o objetivo de demonstrar minhas habilidades técnicas na área de desenvolvimento de software, principalmente em projetos de front-end e back-end. Estou sempre buscando aprender e melhorar minhas habilidades, e fico à disposição para colaborações ou dúvidas. 🇧🇷 </h4></p>
-<p><h4> 🇺🇸 In this GitHub repository, you will find some projects that I have developed throughout my career. All projects posted here are intended to demonstrate my technical skills in the area of ​​software development, mainly in front-end and back-end projects. I'm always looking to learn and improve my skills, and I'm available for collaborations or questions. 🇺🇸 </h4></p>
-<p><h4> 🇪🇸 En este repositorio de GitHub, encontrarás algunos proyectos que he desarrollado a lo largo de mi carrera. Todos los proyectos publicados aquí buscan demostrar mis habilidades técnicas en el área de desarrollo de software, principalmente en proyectos front-end y back-end. Siempre busco aprender y mejorar mis habilidades, y estoy disponible para colaborar o resolver cualquier duda. 🇪🇸 </h4></p>
+<strong><p><h2><li> Perfil  </li></h2></p></strong>
+<p><h4> Neste GitHub, você encontrará alguns projetos que desenvolvi ao longo de minha carreira.  Todos os projetos postados aqui têm o objetivo de demonstrar minhas habilidades técnicas na área de desenvolvimento de software, principalmente em projetos de front-end e back-end. Estou sempre buscando aprender e melhorar minhas habilidades, e fico à disposição para colaborações ou dúvidas. 🇧🇷 </h4></p>
 <p><h4> 
-<p><h4> 🏛️Instituição de Ensino 🇧🇷/ Educational Institution 🇺🇸/ Institución Educativa 🇪🇸 - Universidade Presbiteriana Mackenzie </h4></p>
-<p><h4> 💻Curso 🇧🇷/ Course 🇺🇸/ Curso 🇪🇸 - Ciência da Computação 🇧🇷/ Computer Science  🇺🇸/ Ciencias de la Computación 🇪🇸 </h4></p>  
-<br>
 <!--
 <strong><p><h2><li> Linguagens 🇧🇷/ Language 🇺🇸/ Lenguaje 🇪🇸 </li></h2></p></strong>
 <br>
