@@ -17,6 +17,7 @@ Minha Stack Profissional é:  <br>
   <li> Javascript </li>
   <li> HTML5 e CSS3 </li>
   <li> Python </li>
+  <li> SQL </li>
   <li> Java (aprendendo...) </li>
   <li> React (aprendendo...) </li>
   <li> Next JS (aprendendo...) </li>
