@@ -11,7 +11,7 @@
 - 🔭 Desenvolvedor de Software Júnior
 - 🌐 Interesse em Desenvolvimento Web e Mobile
 
-Minha Stack Profissional é:  <br>
+<strong><p><h2> Minha Stack Profissional é: </h2></p></strong>
 
 <ul>
   <li> Javascript </li>
@@ -28,7 +28,7 @@ Minha Stack Profissional é:  <br>
 
 
 </p>
-<strong><p><h2><li> Perfil  </li></h2></p></strong>
+<strong><p><h2> Perfil  </h2></p></strong>
 <p><h4> Neste GitHub, você encontrará alguns projetos que desenvolvi ao longo de minha carreira.  Todos os projetos postados aqui têm o objetivo de demonstrar minhas habilidades técnicas na área de desenvolvimento de software, principalmente em projetos de front-end e back-end. Estou sempre buscando aprender e melhorar minhas habilidades, e fico à disposição para colaborações ou dúvidas. 🇧🇷 </h4></p>
 <p><h4> 
 <!--
